@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/sreerevanth/repopilot#readme",
   "devDependencies": {
-    "prettier": "^3.9.6"
+    "prettier": "^3.9.8"
   },
   "private": true
 }
